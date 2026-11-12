@@ -1,0 +1,19 @@
+{"t": 0.0, "agent": "world", "event": "run_start", "map": "ilha", "seed": 1, "run_id": 1794166207, "warehouses": ["N9", "N8", "N11"], "dps": ["N17", "N12", "N23", "N22"], "trucks": 4, "drones": 2, "scouts": 0}
+{"t": 0.0, "agent": "world", "event": "road_cut", "edge": ["N13", "N20"], "initial": true}
+{"t": 0.0, "agent": "world", "event": "road_cut", "edge": ["N16", "N21"], "initial": true}
+{"t": 0.0, "agent": "world", "event": "road_cut", "edge": ["N2", "N6"], "initial": true}
+{"t": 0.0, "agent": "world", "event": "road_cut", "edge": ["N6", "N7"], "initial": true}
+{"t": 0.0, "agent": "wh0_1794166207@localhost", "event": "agent_ready", "role": "warehouse", "node": "N9", "stock": {"medical": 70, "food": 90, "shelter": 60}}
+{"t": 0.0, "agent": "wh1_1794166207@localhost", "event": "agent_ready", "role": "warehouse", "node": "N8", "stock": {"medical": 70, "food": 90, "shelter": 60}}
+{"t": 0.0, "agent": "wh2_1794166207@localhost", "event": "agent_ready", "role": "warehouse", "node": "N11", "stock": {"medical": 70, "food": 90, "shelter": 60}}
+{"t": 0.0, "agent": "dp0_1794166207@localhost", "event": "agent_ready", "role": "dp", "node": "N17"}
+{"t": 0.0, "agent": "dp1_1794166207@localhost", "event": "agent_ready", "role": "dp", "node": "N12"}
+{"t": 0.0, "agent": "dp2_1794166207@localhost", "event": "agent_ready", "role": "dp", "node": "N23"}
+{"t": 0.0, "agent": "dp3_1794166207@localhost", "event": "agent_ready", "role": "dp", "node": "N22"}
+{"t": 0.0, "agent": "truck0_1794166207@localhost", "event": "agent_ready", "role": "truck", "node": "N9"}
+{"t": 0.0, "agent": "truck1_1794166207@localhost", "event": "agent_ready", "role": "truck", "node": "N8"}
+{"t": 0.0, "agent": "truck2_1794166207@localhost", "event": "agent_ready", "role": "truck", "node": "N11"}
+{"t": 0.0, "agent": "truck3_1794166207@localhost", "event": "agent_ready", "role": "truck", "node": "N9"}
+{"t": 0.0, "agent": "drone0_1794166207@localhost", "event": "agent_ready", "role": "drone", "node": "N9"}
+{"t": 0.0, "agent": "drone1_1794166207@localhost", "event": "agent_ready", "role": "drone", "node": "N8"}
+{"t": 600.32, "agent": "world", "event": "run_end"}
